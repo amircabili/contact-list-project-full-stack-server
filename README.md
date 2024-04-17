@@ -17,12 +17,12 @@ The Contacts app is a simple Angular application for managing contacts. It allow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amircabili/contact-list-project-full-stack-client.git
+   git clone https://github.com/amircabili/contact-list-project-full-stack-client-side.git
 Navigate to the project directory:
 
 bash
 Copy code
-cd contact-list-project-full-stack-client
+cd contact-list-project-full-stack-client-side
 Install dependencies:
 
 bash
