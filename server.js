@@ -13,7 +13,7 @@ app.use(cors({
     allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
-const db = "mongodb+srv://amircabili:EwF38Ome8zsnkPvi@cluster0.l2jc0l0.mongodb.net/contactList?retryWrites=true&w=majority"
+const db = "mongodb+srv://amircabili:EwF38Ome8zsnkPvi@cluster0.l2jc0l0.mongodb.net/contactList?retryWrites=true&w=majority&appName=Cluster0"
 // const db = "mongodb+srv://amir-1:Mombasa781@cluster0.igugohc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
